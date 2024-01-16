@@ -15,7 +15,7 @@ export const NpmScopeAttributes = Object.freeze({
   //
   // In-context instrumented package attributes
   //
-  IS_INSTRUMENTED: 'npm.dependency.instrumented',
+  IS_INSTRUMENTED: 'npm.dependency.isInstrumented',
   INSTRUMENTED_RAW: 'npm.dependency.instrumented.raw',
   INSTRUMENTED_OWNER: 'npm.dependency.instrumented.owner',
   INSTRUMENTED_NAME: 'npm.dependency.instrumented.name',
