@@ -23,8 +23,8 @@
   "type": "module",
   "exports": {
     ".": {
-      "types": "./dist/main/attributes.d.ts",
-      "default": "./dist/main/attributes.js"
+      "types": "./dist/main/index.d.ts",
+      "default": "./dist/main/index.js"
     }
   },
   "files": [
