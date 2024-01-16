@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Telemetry roadmap
+    url: https://github.com/orgs/ibm-telemetry/projects/1/views/7
+    about: Learn what we're working on and what we have planned for the future.
+  - name: Telemetry feedback
+    url: https://github.com/ibm-telemetry/telemetry-attributes-js/discussions
+    about: Share your feedback with the Telemetry squad.

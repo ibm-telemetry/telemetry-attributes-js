@@ -1,0 +1,15 @@
+#!/bin/sh
+
+set -e
+
+echo "Running prettier"
+npx prettier --check --write .
+
+echo "Running eslint"
+npx eslint --fix --max-warnings=0 --ext .js,.cjs,.mjs,.jsx,.ts,.tsx .
+
+echo "Running package.json formatter"
+node scripts/format-package-json.js --fix
+
+# Lint once more to ensure no thrashing occurred
+scripts/lint

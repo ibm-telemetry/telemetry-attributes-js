@@ -1,0 +1,1 @@
+# IBM Telemetry Attributes (JS)
