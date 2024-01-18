@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v1.0.2...v2.0.0) (2024-01-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* update npm scope attributes
+
+### Features
+
+* update npm scope attributes ([da9276d](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/da9276d4dfb987b8ee9f45410df5be9653e7b9fd))
+
 ## [1.0.2](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v1.0.1...v1.0.2) (2024-01-16)
 
 
