@@ -6,6 +6,11 @@
  */
 export const NpmScopeAttributes = Object.freeze({
   //
+  // NPM scope metrics
+  //
+  NPM_DEPENDENCY_METRIC: 'npm.dependency',
+
+  //
   // General dependency name attributes
   //
   RAW: 'npm.dependency.raw',
