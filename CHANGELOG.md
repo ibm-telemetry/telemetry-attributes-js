@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v2.0.0...v2.1.0) (2024-01-18)
+
+
+### Features
+
+* add metric names as constants across all scopes ([2470fda](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/2470fda3f09ffdbf92bd8c718864b9c9d3f2e686))
+
 ## [2.0.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v1.0.2...v2.0.0) (2024-01-16)
 
 
