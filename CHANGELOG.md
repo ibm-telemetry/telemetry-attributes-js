@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.0.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v2.1.0...v3.0.0) (2024-03-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove invoker and installer jsx/nom attributes ([#9](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/9))
+
+### Features
+
+* add constant for jsx element attribute map ([7b0273b](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/7b0273bafcddaba8753afeebdcc0cc883359fc63))
+* add js scope function and token attributes ([#10](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/10)) ([b6ec651](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/b6ec6513c858afe4f83fd4b8bf380a791cc04a84))
+
+
+### Bug Fixes
+
+* remove invoker and installer jsx/nom attributes ([#9](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/9)) ([fd79934](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/fd7993447928377140ed967fbc0875c6867804c1))
+
 ## [2.1.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v2.0.0...v2.1.0) (2024-01-18)
 
 
