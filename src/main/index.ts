@@ -5,5 +5,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 export * from './custom-resource-attributes.js'
+export * from './js-scope-attributes.js'
 export * from './jsx-scope-attributes.js'
 export * from './npm-scope-attributes.js'
