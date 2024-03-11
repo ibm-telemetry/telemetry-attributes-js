@@ -22,5 +22,5 @@ export const JsScopeAttributes = Object.freeze({
   //
   FUNCTION_NAME: 'js.function.name',
   FUNCTION_ACCESS_PATH: 'js.function.accessPath',
-  FUNCTION_ARGUMENT_VALUESt: 'js.function.arguments.values'
+  FUNCTION_ARGUMENT_VALUES: 'js.function.arguments.values'
 })
