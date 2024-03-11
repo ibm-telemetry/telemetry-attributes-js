@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v3.0.0...v3.0.1) (2024-03-11)
+
+
+### Bug Fixes
+
+* correct js scope attr object name ([#11](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/11)) ([7e3c2d4](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/7e3c2d4e43aab3cdb073be96e65343e6e8c78557))
+
 ## [3.0.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v2.1.0...v3.0.0) (2024-03-08)
 
 
