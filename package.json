@@ -1,7 +1,7 @@
 {
   "name": "@ibm/telemetry-attributes-js",
   "description": "IBM Telemetry attribute definitions for JS code",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "license": "Apache-2.0",
   "author": "IBM",
   "keywords": [
