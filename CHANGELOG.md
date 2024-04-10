@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.1.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v3.0.2...v3.1.0) (2024-04-10)
+
+
+### Features
+
+* add module specifier attributes to JS scope ([#29](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/29)) ([dc02008](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/dc02008c2de3a69d4eb7157b036455d70a3ed903))
+
+
+### Bug Fixes
+
+* **deps:** upgrade contributor-assistant/github-action action to v2.3.2 ([#25](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/25)) ([317d5f5](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/317d5f5e8e25859d3f96710e7a22cab2576b7f3a))
+* **deps:** upgrade devDependencies (minor) ([#23](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/23)) ([a80995d](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/a80995d9eac016a80cdc55ccb84a075eb41a4193))
+* **deps:** upgrade devDependencies (minor) ([#26](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/26)) ([6b32c37](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/6b32c37b42cbaa9ad3c7d54eb24d5e51e8f5675e))
+* **deps:** upgrade devDependencies (minor) ([#27](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/27)) ([ddaf644](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/ddaf6443843fcc0aa4515f35e976ef839e00069c))
+* **deps:** upgrade devDependencies (minor) ([#28](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/28)) ([5b76be6](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/5b76be6330d3d866416a970bf4c159aa26e7049d))
+
 ## [3.0.2](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v3.0.1...v3.0.2) (2024-03-15)
 
 
