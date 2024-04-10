@@ -16,11 +16,13 @@ export const JsScopeAttributes = Object.freeze({
   //
   TOKEN_NAME: 'js.token.name',
   TOKEN_ACCESS_PATH: 'js.token.accessPath',
+  TOKEN_MODULE_SPECIFIER: 'js.token.module.specifier',
 
   //
   // Attributes relating to a js function
   //
   FUNCTION_NAME: 'js.function.name',
   FUNCTION_ACCESS_PATH: 'js.function.accessPath',
-  FUNCTION_ARGUMENT_VALUES: 'js.function.arguments.values'
+  FUNCTION_ARGUMENT_VALUES: 'js.function.arguments.values',
+  FUNCTION_MODULE_SPECIFIER: 'js.function.module.specifier'
 })
