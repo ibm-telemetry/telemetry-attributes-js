@@ -6,6 +6,11 @@
  */
 export const JsScopeAttributes = Object.freeze({
   //
+  // General scope attributes
+  //
+  SCOPE_NAME: 'js',
+
+  //
   // JS scope metrics
   //
   JS_TOKEN_METRIC: 'js.token',

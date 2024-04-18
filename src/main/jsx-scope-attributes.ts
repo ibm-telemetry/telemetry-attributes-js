@@ -6,6 +6,11 @@
  */
 export const JsxScopeAttributes = Object.freeze({
   //
+  // General scope attributes
+  //
+  SCOPE_NAME: 'jsx',
+
+  //
   // JSX scope metrics
   //
   JSX_ELEMENT_METRIC: 'jsx.element',
