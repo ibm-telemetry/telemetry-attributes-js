@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.2.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v3.1.0...v3.2.0) (2024-04-18)
+
+
+### Features
+
+* add exported ALL_SCOPE_NAMES ([#32](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/32)) ([734e6d9](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/734e6d9170cc97981e9d20d2b6b2a7c84effbd46))
+
+
+### Bug Fixes
+
+* **deps:** upgrade devDependencies (minor) ([#30](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/30)) ([22dda91](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/22dda910dd44c1c37335aea425d0306c46e12a78))
+
 ## [3.1.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v3.0.2...v3.1.0) (2024-04-10)
 
 
