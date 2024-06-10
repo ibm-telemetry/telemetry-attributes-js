@@ -1,5 +1,22 @@
 # Changelog
 
+## [4.0.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v3.2.0...v4.0.0) (2024-06-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove ATTRIBUTE_MAP
+
+### Bug Fixes
+
+* **deps:** upgrade contributor-assistant/github-action action to v2.4.0 ([#37](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/37)) ([1d6c82c](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/1d6c82c7c1e684f078b370b1ec35c53784261edb))
+* **deps:** upgrade devDependencies (minor) ([#33](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/33)) ([a7ead32](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/a7ead32396ebf6add630fdc890e0bb0f42abe658))
+* **deps:** upgrade devDependencies (minor) ([#35](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/35)) ([ed54a76](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/ed54a76121c0522ed3bd65f8e56524db0c597ac9))
+* **deps:** upgrade devDependencies (minor) ([#36](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/36)) ([cd374b6](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/cd374b693a388103f86112ba521725d7f96306ec))
+* **deps:** upgrade devDependencies (minor) ([#38](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/38)) ([b39ef18](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/b39ef18cf0b98d5617514a55c3fa11bda29a1194))
+* **deps:** upgrade devDependencies (minor) ([#39](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/39)) ([836463c](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/836463c5796a574d4545f1c7a3f95bc036e7f3bf))
+* remove ATTRIBUTE_MAP ([cecc54d](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/cecc54dff5f5485457d1034adc8e592977698d04))
+
 ## [3.2.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v3.1.0...v3.2.0) (2024-04-18)
 
 
