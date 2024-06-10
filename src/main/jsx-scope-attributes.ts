@@ -21,6 +21,5 @@ export const JsxScopeAttributes = Object.freeze({
   NAME: 'jsx.element.name',
   MODULE_SPECIFIER: 'jsx.element.module.specifier',
   ATTRIBUTE_NAMES: 'jsx.element.attributes.names',
-  ATTRIBUTE_VALUES: 'jsx.element.attributes.values',
-  ATTRIBUTE_MAP: 'jsx.element.attributes.map'
+  ATTRIBUTE_VALUES: 'jsx.element.attributes.values'
 })
