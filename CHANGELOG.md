@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.1](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.0.0...v4.0.1) (2024-07-29)
+
+
+### Bug Fixes
+
+* **deps:** upgrade devDependencies (minor) ([#40](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/40)) ([d624e7b](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/d624e7be3b449e3834b5f9c3c1880d9122d9b84c))
+* **deps:** upgrade devDependencies (minor) ([#42](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/42)) ([4ec0a4d](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/4ec0a4d8984bda7d4cc373cb583097c51dd0b01c))
+* **deps:** upgrade devDependencies (minor) ([#43](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/43)) ([bb0b99e](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/bb0b99e7d59e978735af6266814d6e2b67905606))
+* **deps:** upgrade devDependencies (minor) ([#44](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/44)) ([413c5f5](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/413c5f50326b2a41549c980e39a242fdf2c06474))
+* **deps:** upgrade devDependencies (minor) ([#45](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/45)) ([17c1f91](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/17c1f918fc837379b2add235f7fe893579c365fe))
+
 ## [4.0.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v3.2.0...v4.0.0) (2024-06-10)
 
 
