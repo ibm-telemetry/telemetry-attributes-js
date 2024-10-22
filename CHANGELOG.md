@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.2](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.1.1...v4.1.2) (2024-10-22)
+
+
+### Bug Fixes
+
+* owner path rename ([#54](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/54)) ([f3fc7c2](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/f3fc7c2d58b69e9c77d4452f129a09b0f0833827))
+
 ## [4.1.1](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.1.0...v4.1.1) (2024-10-17)
 
 
