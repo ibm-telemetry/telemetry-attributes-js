@@ -10,7 +10,11 @@ export const CustomResourceAttributes = Object.freeze({
   //
   PROJECT_ID: 'project.id',
   DATE: 'date',
-  CI_NAME: 'ci.name',
+  
+  //
+  // Attributes related to details about where the emitter is running
+  //
+  ENVIRONMENT_NAME: 'environment.name',
 
   //
   // Attributes relating to details about the currently-running emitter
