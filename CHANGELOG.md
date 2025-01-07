@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.2.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.1.2...v4.2.0) (2025-01-07)
+
+
+### Features
+
+* **attributes:** add log attributes file ([#56](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/56)) ([3eee07e](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/3eee07e9ffd0bd6d26351ff90dc2d22e1eb3cdaf))
+
+
+### Bug Fixes
+
+* **deps:** upgrade devDependencies (minor) ([#50](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/50)) ([d9c4f70](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/d9c4f70e95eecebf711fbddfa5f942c685594df0))
+
 ## [4.1.2](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.1.1...v4.1.2) (2024-10-22)
 
 
