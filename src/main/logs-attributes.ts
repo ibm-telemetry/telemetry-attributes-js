@@ -4,18 +4,18 @@
  * This source code is licensed under the Apache-2.0 license found in the
  * LICENSE file in the root directory of this source tree.
  */
-export const CustomResourceAttributes = Object.freeze({
+export const LogsAttributes = Object.freeze({
   //
   // General attributes
   //
   PROJECT_ID: 'project.id',
   DATE: 'date',
+  LOGS: 'logs',
 
   //
-  // Attributes relating to details about the currently-running emitter
+  // Attributes related to details about where the emitter is running
   //
-  TELEMETRY_EMITTER_NAME: 'telemetry.emitter.name',
-  TELEMETRY_EMITTER_VERSION: 'telemetry.emitter.version',
+  ENVIRONMENT_NAME: 'environment.name',
 
   //
   // Attributes relating to details about the analyzed repository
@@ -26,5 +26,12 @@ export const CustomResourceAttributes = Object.freeze({
   ANALYZED_OWNER_PATH: 'analyzed.ownerPath',
   ANALYZED_REPOSITORY: 'analyzed.repository',
   ANALYZED_COMMIT: 'analyzed.commit',
-  ANALYZED_REFS: 'analyzed.refs'
+  ANALYZED_REFS: 'analyzed.refs',
+
+  //
+  // Attributes related to the results of the scan
+  //
+  RESULTS_IS_COMPLETED: 'results.isCompleted',
+  RESULTS_TOTAL_DURATION: 'results.totalDuration',
+  RESULTS_TOTAL_PACKAGES: 'results.totalPackages'
 })

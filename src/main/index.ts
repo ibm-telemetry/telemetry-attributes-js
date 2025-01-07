@@ -7,12 +7,14 @@
 import { CustomResourceAttributes } from './custom-resource-attributes.js'
 import { JsScopeAttributes } from './js-scope-attributes.js'
 import { JsxScopeAttributes } from './jsx-scope-attributes.js'
+import { LogsAttributes } from './logs-attributes.js'
 import { NpmScopeAttributes } from './npm-scope-attributes.js'
 
 export { CustomResourceAttributes }
 export { JsScopeAttributes }
 export { JsxScopeAttributes }
 export { NpmScopeAttributes }
+export { LogsAttributes }
 
 export const ALL_SCOPE_NAMES = [
   JsScopeAttributes.SCOPE_NAME,
