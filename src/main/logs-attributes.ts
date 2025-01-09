@@ -35,6 +35,11 @@ export const LogsAttributes = Object.freeze({
   ANALYZED_REFS: 'analyzed.refs',
 
   //
+  // Attribute related to the current scan ID
+  //
+  SCAN_ID: 'scan.id',
+
+  //
   // Attributes related to the results of the scan
   //
   RESULTS_IS_COMPLETED: 'results.isCompleted',
