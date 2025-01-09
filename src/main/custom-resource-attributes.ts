@@ -12,10 +12,20 @@ export const CustomResourceAttributes = Object.freeze({
   DATE: 'date',
 
   //
+  // Attributes related to details about where the emitter is running
+  //
+  ENVIRONMENT_NAME: 'environment.name',
+
+  //
   // Attributes relating to details about the currently-running emitter
   //
   TELEMETRY_EMITTER_NAME: 'telemetry.emitter.name',
   TELEMETRY_EMITTER_VERSION: 'telemetry.emitter.version',
+
+  //
+  // Attribute related to the current scan ID
+  //
+  SCAN_ID: 'scan.id',
 
   //
   // Attributes relating to details about the analyzed repository
