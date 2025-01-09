@@ -1,9 +1,9 @@
 # Changelog
 
-## [4.3.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.2.0...v4.3.0) (2025-01-09)
+## [4.1.2](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.2.0...v4.2.1) (2025-01-09)
 
 
-### Features
+### Bug Fixes
 
 * add environment name to metrics ([#58](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/58)) ([e122c64](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/e122c64795560367826bc432fcb9f31ec78b3bcd))
 
