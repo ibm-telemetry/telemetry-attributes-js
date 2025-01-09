@@ -1,6 +1,6 @@
 # Changelog
 
-## [4.1.2](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.2.0...v4.2.1) (2025-01-09)
+## [4.2.1](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.2.0...v4.2.1) (2025-01-09)
 
 
 ### Bug Fixes
