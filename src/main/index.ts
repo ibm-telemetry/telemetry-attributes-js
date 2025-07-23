@@ -9,15 +9,18 @@ import { JsScopeAttributes } from './js-scope-attributes.js'
 import { JsxScopeAttributes } from './jsx-scope-attributes.js'
 import { LogsAttributes } from './logs-attributes.js'
 import { NpmScopeAttributes } from './npm-scope-attributes.js'
+import { WcScopeAttributes } from './wc-scope-attributes.js'
 
 export { CustomResourceAttributes }
 export { JsScopeAttributes }
 export { JsxScopeAttributes }
 export { NpmScopeAttributes }
+export { WcScopeAttributes }
 export { LogsAttributes }
 
 export const ALL_SCOPE_NAMES = [
   JsScopeAttributes.SCOPE_NAME,
   JsxScopeAttributes.SCOPE_NAME,
-  NpmScopeAttributes.SCOPE_NAME
+  NpmScopeAttributes.SCOPE_NAME,
+  WcScopeAttributes.SCOPE_NAME
 ] as const
