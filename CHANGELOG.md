@@ -1,5 +1,19 @@
 # Changelog
 
+## [4.3.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.2.1...v4.3.0) (2025-07-23)
+
+
+### Features
+
+* introduce wc scope ([26c6e4d](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/26c6e4d14aab614bdaf22363800dcd1066c8091d))
+
+
+### Bug Fixes
+
+* **deps:** upgrade contributor-assistant/github-action action to v2.6.1 ([#49](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/49)) ([d128d1a](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/d128d1a45f160a335b60b1463da0f2b89d8ef20e))
+* **deps:** upgrade dependency node to v20.19.4 ([#61](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/61)) ([6a54555](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/6a545554b15fefc18d4e7aaef3ef41ce3cda05ec))
+* **deps:** upgrade devDependencies (minor) ([#60](https://github.com/ibm-telemetry/telemetry-attributes-js/issues/60)) ([10c5124](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/10c51248feeaef78844c92d344dacd345f1271e9))
+
 ## [4.2.1](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.2.0...v4.2.1) (2025-01-09)
 
 
