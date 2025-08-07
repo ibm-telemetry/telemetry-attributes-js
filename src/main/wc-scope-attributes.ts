@@ -21,5 +21,7 @@ export const WcScopeAttributes = Object.freeze({
   NAME: 'wc.element.name',
   MODULE_SPECIFIER: 'wc.element.module.specifier',
   ATTRIBUTE_NAMES: 'wc.element.attributes.names',
-  ATTRIBUTE_VALUES: 'wc.element.attributes.values'
+  ATTRIBUTE_VALUES: 'wc.element.attributes.values',
+  IMPORT_SOURCE: 'wc.element.importSource',
+  FRAMEWORK_WRAPPER: 'wc.element.frameworkWrapper'
 })
