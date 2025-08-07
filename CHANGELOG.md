@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.4.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.3.0...v4.4.0) (2025-08-07)
+
+
+### Features
+
+* add new wc fields ([0869c03](https://github.com/ibm-telemetry/telemetry-attributes-js/commit/0869c033b2f9bd6fa88d6ac137b485411a12eeed))
+
 ## [4.3.0](https://github.com/ibm-telemetry/telemetry-attributes-js/compare/v4.2.1...v4.3.0) (2025-07-23)
 
 
